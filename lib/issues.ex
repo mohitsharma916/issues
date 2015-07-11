@@ -1,2 +1,2 @@
-defmodule Issues do
+defmodule Issue do
 end
